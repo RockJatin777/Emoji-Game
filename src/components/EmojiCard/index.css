@@ -1,0 +1,11 @@
+.emoji-button {
+  background-color: #9796f0;
+  border: 1px solid #ffffff30;
+  border-radius: 16px;
+  padding: 24px;
+  margin: 10px;
+}
+
+.list-container {
+  list-style: none;
+}
